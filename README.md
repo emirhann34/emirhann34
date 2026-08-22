@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, Ben Emirhan Yılmaz!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Bilgisayar+Mühendisi;Mobil+Uygulama+Geliştiricisi;Yapay+Zeka+%26+Görüntü+İşleme+Meraklısı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Bilgisayar+Mühendisi;Mobil+Uygulama+Geliştirme;Yapay+Zeka+%26+Görüntü+İşleme" alt="Typing SVG" />
 </p>
 
 <p align="center">
