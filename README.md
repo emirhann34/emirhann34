@@ -30,15 +30,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhann34&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhann34&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
